@@ -1,0 +1,640 @@
+1607265821060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile09qVfI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607265823026	Marionette	INFO	Listening on port 50708
+1607265823109	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileFJjsAb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607265842283	Marionette	INFO	Listening on port 50766
+1607265842343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607265891382	Marionette	INFO	Stopped listening on port 50766
+1607265944201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileoQiDKC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607265946385	Marionette	INFO	Listening on port 50886
+1607265946880	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile0bRpLC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607266295859	Marionette	INFO	Listening on port 51221
+1607266295921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607266459217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileWOhXXJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607266461285	Marionette	INFO	Listening on port 51401
+1607266461371	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607266476419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileVOBOGZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607266478303	Marionette	INFO	Listening on port 51455
+1607266478465	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileZc10hB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607266516396	Marionette	INFO	Listening on port 51514
+1607266516424	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1607266618388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileZ7MqWJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607266620405	Marionette	INFO	Listening on port 51612
+1607266620448	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 20984, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "ContentParent: id=1d7db7e3800"
+1607266663894	Marionette	INFO	Stopped listening on port 51612
+[Parent 20984, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607266685802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile67LD17"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607266687750	Marionette	INFO	Listening on port 51719
+1607266687856	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607266915099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileb50BZr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607266917128	Marionette	INFO	Listening on port 51922
+1607266917150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607266921048	Marionette	INFO	Stopped listening on port 51922
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileb50BZr\protections.sqlite
+1607272631923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile1LwmNv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607272634058	Marionette	INFO	Listening on port 59837
+1607272634089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607272648315	Marionette	INFO	Stopped listening on port 59837
+1607272680097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilejHdbQG"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607272682260	Marionette	INFO	Listening on port 59964
+1607272682764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607272686276	Marionette	INFO	Stopped listening on port 59964
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilejHdbQG\protections.sqlite
+1607273094585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileY55GMb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607273096739	Marionette	INFO	Listening on port 60534
+1607273097241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607273102674	Marionette	INFO	Stopped listening on port 60534
+1607273125151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileJhKgbk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607273127340	Marionette	INFO	Listening on port 60656
+1607273127806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607273131805	Marionette	INFO	Stopped listening on port 60656
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileJhKgbk\protections.sqlite
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1607273207687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile53q25M"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607273209916	Marionette	INFO	Listening on port 60859
+1607273210349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607273215152	Marionette	INFO	Stopped listening on port 60859
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofile53q25M\protections.sqlite
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1607273268120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilenghjXQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607273270123	Marionette	INFO	Listening on port 61029
+1607273270175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607273275121	Marionette	INFO	Stopped listening on port 61029
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilenghjXQ\protections.sqlite
+1607273291363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilegCwrBQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607273293436	Marionette	INFO	Listening on port 61142
+1607273293538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607273297339	Marionette	INFO	Stopped listening on port 61142
+1607273886801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileqzQ1Db"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607273888880	Marionette	INFO	Listening on port 62163
+1607273888958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607273895544	Marionette	INFO	Stopped listening on port 62163
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1607273976587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile7PH8vo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607273978658	Marionette	INFO	Listening on port 62379
+1607273978769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607273984122	Marionette	INFO	Stopped listening on port 62379
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofile7PH8vo\protections.sqlite
+1607274056544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilesNmiKs"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607274058576	Marionette	INFO	Listening on port 62583
+1607274058603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607274066856	Marionette	INFO	Stopped listening on port 62583
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1607274262224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileYZu8AK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607274264314	Marionette	INFO	Listening on port 62960
+1607274264383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607274267875	Marionette	INFO	Stopped listening on port 62960
+1607274396667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileOAKPH1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607274398910	Marionette	INFO	Listening on port 63222
+1607274399322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607274404242	Marionette	INFO	Stopped listening on port 63222
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1607274538419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileXgCfsN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607274540414	Marionette	INFO	Listening on port 63517
+1607274540478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607274544976	Marionette	INFO	Stopped listening on port 63517
+1607274724661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileLzHh0K"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607274726738	Marionette	INFO	Listening on port 63855
+1607274726854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607274732610	Marionette	INFO	Stopped listening on port 63855
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileLzHh0K\protections.sqlite
+1607275059243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileZksFvA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607275061265	Marionette	INFO	Listening on port 64272
+1607275061294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607275065876	Marionette	INFO	Stopped listening on port 64272
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileZksFvA\protections.sqlite
+1607275131549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileNgftw1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607275133677	Marionette	INFO	Listening on port 64405
+1607275133711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607275139127	Marionette	INFO	Stopped listening on port 64405
+1607275193639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile1iT5LN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607275195691	Marionette	INFO	Listening on port 64535
+1607275195807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607275199773	Marionette	INFO	Stopped listening on port 64535
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofile1iT5LN\protections.sqlite
+1607275390216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilejcMv3Y"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607275392229	Marionette	INFO	Listening on port 64809
+1607275392283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607275395891	Marionette	INFO	Stopped listening on port 64809
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilejcMv3Y\protections.sqlite
+1607275470258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileUI3i6k"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607275472295	Marionette	INFO	Listening on port 64946
+1607275472417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607275482483	Marionette	INFO	Stopped listening on port 64946
+1607275617975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile6or2ao"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607275619972	Marionette	INFO	Listening on port 65159
+1607275620048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607275624506	Marionette	INFO	Stopped listening on port 65159
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofile6or2ao\protections.sqlite
+1607275793830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileDBbJ8O"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607275795763	Marionette	INFO	Listening on port 65392
+1607275795889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607275801078	Marionette	INFO	Stopped listening on port 65392
+1607275832486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileSCLmgl"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607275834426	Marionette	INFO	Listening on port 65495
+1607275834543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607275838376	Marionette	INFO	Stopped listening on port 65495
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileSCLmgl\protections.sqlite
+1607276123741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileUm9Mqk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607276125772	Marionette	INFO	Listening on port 49479
+1607276125805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607276131368	Marionette	INFO	Stopped listening on port 49479
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileUm9Mqk\protections.sqlite
+1607276391333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile3g7Zhu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607276393402	Marionette	INFO	Listening on port 49843
+1607276393488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607276397878	Marionette	INFO	Stopped listening on port 49843
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofile3g7Zhu\protections.sqlite
+1607276433965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilejROgn1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607276436050	Marionette	INFO	Listening on port 49962
+1607276436153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607276441017	Marionette	INFO	Stopped listening on port 49962
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilejROgn1\protections.sqlite
+1607276550420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileXUHPJ7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607276552456	Marionette	INFO	Listening on port 50176
+1607276552588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607276556507	Marionette	INFO	Stopped listening on port 50176
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileXUHPJ7\protections.sqlite
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1607276614886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilelz7W6E"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607276617004	Marionette	INFO	Listening on port 50332
+1607276617050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607276621822	Marionette	INFO	Stopped listening on port 50332
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilelz7W6E\protections.sqlite
+1607276693715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilelL8Yqg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607276695749	Marionette	INFO	Listening on port 50489
+1607276695795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607276704061	Marionette	INFO	Stopped listening on port 50489
+1607276984947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofiletmzKjL"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607276987099	Marionette	INFO	Listening on port 50879
+1607276987605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607276992661	Marionette	INFO	Stopped listening on port 50879
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofiletmzKjL\protections.sqlite
+1607277014620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileuvlN2I"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607277016700	Marionette	INFO	Listening on port 50973
+1607277016862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607277022117	Marionette	INFO	Stopped listening on port 50973
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileuvlN2I\protections.sqlite
+1607277389502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilek7c157"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607277391646	Marionette	INFO	Listening on port 51484
+1607277392171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607277397127	Marionette	INFO	Stopped listening on port 51484
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilek7c157\protections.sqlite
+1607277543361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileNAttLD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607277545531	Marionette	INFO	Listening on port 51713
+1607277546037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607277549659	Marionette	INFO	Stopped listening on port 51713
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileNAttLD\protections.sqlite
+1607277628126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilexAcJOV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607277630321	Marionette	INFO	Listening on port 51881
+1607277630781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607277635129	Marionette	INFO	Stopped listening on port 51881
+[Parent 15504, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607277725780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilegxr4OP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607277727902	Marionette	INFO	Listening on port 52070
+1607277727936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607277731495	Marionette	INFO	Stopped listening on port 52070
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilegxr4OP\protections.sqlite
+1607277883099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileVMhNal"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607277885149	Marionette	INFO	Listening on port 52310
+1607277885261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607277889335	Marionette	INFO	Stopped listening on port 52310
+1607277923878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileT0wzOU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607277926062	Marionette	INFO	Listening on port 52452
+1607277926541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607277932839	Marionette	INFO	Stopped listening on port 52452
+1607278028659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileGie5Pm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607278030708	Marionette	INFO	Listening on port 52656
+1607278030834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607278035885	Marionette	INFO	Stopped listening on port 52656
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileGie5Pm\protections.sqlite
+1607278101833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilemqO18G"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607278104133	Marionette	INFO	Listening on port 52833
+1607278104485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607278109060	Marionette	INFO	Stopped listening on port 52833
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilemqO18G\protections.sqlite
+1607278449945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileLBfpR4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607278452039	Marionette	INFO	Listening on port 53339
+1607278452126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607278456498	Marionette	INFO	Stopped listening on port 53339
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileLBfpR4\protections.sqlite
+1607278976705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileKFKKje"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607278978968	Marionette	INFO	Listening on port 53996
+1607278979366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607278983509	Marionette	INFO	Stopped listening on port 53996
+1607279080206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile5h5oc7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607279082309	Marionette	INFO	Listening on port 54183
+1607279082376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607279090036	Marionette	INFO	Stopped listening on port 54183
+1607279375315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileLP7wX0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607279377363	Marionette	INFO	Listening on port 54582
+1607279377477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607279383543	Marionette	INFO	Stopped listening on port 54582
+[Child 22784, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 22784, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 22784, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 22784, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1607279426449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileMpcTnz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607279428486	Marionette	INFO	Listening on port 54724
+1607279428609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607279433424	Marionette	INFO	Stopped listening on port 54724
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileMpcTnz\protections.sqlite
+1607279619991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilejpFvgJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607279622014	Marionette	INFO	Listening on port 55006
+1607279622049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607279626318	Marionette	INFO	Stopped listening on port 55006
+1607279942715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileKQcn8f"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607279944804	Marionette	INFO	Listening on port 55399
+1607279944876	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607279949762	Marionette	INFO	Stopped listening on port 55399
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1607279986110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileX65dyV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607279988220	Marionette	INFO	Listening on port 55524
+1607279988275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607279992697	Marionette	INFO	Stopped listening on port 55524
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileX65dyV\protections.sqlite
+1607280064351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileY1hpEQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607280066384	Marionette	INFO	Listening on port 55674
+1607280066418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607280069587	Marionette	INFO	Stopped listening on port 55674
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileY1hpEQ\protections.sqlite
+1607280120320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile6WEZfM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607280122680	Marionette	INFO	Listening on port 55827
+1607280122973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607280128082	Marionette	INFO	Stopped listening on port 55827
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofile6WEZfM\protections.sqlite
+1607280277302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilewyAlDk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607280279323	Marionette	INFO	Listening on port 56067
+1607280279380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607280290040	Marionette	INFO	Stopped listening on port 56067
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1607280349775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilenPZ0Au"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607280351832	Marionette	INFO	Listening on port 56216
+1607280351934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607280357466	Marionette	INFO	Stopped listening on port 56216
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1607280386050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofiler6brmg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607280388265	Marionette	INFO	Listening on port 56313
+1607280388706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607280393549	Marionette	INFO	Stopped listening on port 56313
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWinJdaovwActorChild.sendAsyncMessage: JSWindowAacStcorriCphti ledr rcoarn:n resource://gre/modules/Sqlite.jsm, lineo 10t3 1s:e nEdr raotr :t hSeq lmiotmee.njts
+m has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofiler6brmg\protections.sqlite
+1607280496471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile1RabWu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607280498539	Marionette	INFO	Listening on port 56500
+1607280498634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607280503246	Marionette	INFO	Stopped listening on port 56500
+1607280958487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileVEtgQH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607280960532	Marionette	INFO	Listening on port 57043
+1607280960656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607280966186	Marionette	INFO	Stopped listening on port 57043
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1607281190187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileBjUTfj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607281192195	Marionette	INFO	Listening on port 57331
+1607281192242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607281196271	Marionette	INFO	Stopped listening on port 57331
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1607283427425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilepy7SKd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607283429563	Marionette	INFO	Listening on port 60941
+1607283430082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607283433773	Marionette	INFO	Stopped listening on port 60941
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilepy7SKd\protections.sqlite
+1607283520597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileIdiaFZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607283522639	Marionette	INFO	Listening on port 61111
+1607283522764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607283526299	Marionette	INFO	Stopped listening on port 61111
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1607283689324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileO3R8i4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607283691357	Marionette	INFO	Listening on port 61507
+1607283691391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607283695005	Marionette	INFO	Stopped listening on port 61507
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1607283756448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileKY25oX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607283758601	Marionette	INFO	Listening on port 61642
+1607283759111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607283762966	Marionette	INFO	Stopped listening on port 61642
+1607284442784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileAGAJCC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607284444769	Marionette	INFO	Listening on port 62617
+1607284444846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607284449306	Marionette	INFO	Stopped listening on port 62617
+1607285023210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileL7eVV8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607285025122	Marionette	INFO	Listening on port 63246
+1607285025264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607285029616	Marionette	INFO	Stopped listening on port 63246
+1607286327549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileXyB6t7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607286329575	Marionette	INFO	Listening on port 64554
+1607286329609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607286334476	Marionette	INFO	Stopped listening on port 64554
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1607287771272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilenVTOhk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607287773363	Marionette	INFO	Listening on port 49693
+1607287773425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607287778440	Marionette	INFO	Stopped listening on port 49693
+1607288072036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilem7o214"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607288074251	Marionette	INFO	Listening on port 50091
+1607288074697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607288078224	Marionette	INFO	Stopped listening on port 50091
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofilem7o214\protections.sqlite
+1607288084489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileauJKo1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607288086724	Marionette	INFO	Listening on port 50169
+1607288087160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607288091372	Marionette	INFO	Stopped listening on port 50169
+1607288131296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofilewcIEEm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607288133303	Marionette	INFO	Listening on port 50281
+1607288133361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607288141566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofile17U807"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607288143620	Marionette	INFO	Listening on port 50343
+1607288143737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607288151510	Marionette	INFO	Stopped listening on port 50343
+1607325556260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileRFte3F"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607325563099	Marionette	INFO	Listening on port 60551
+1607325563155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607325566911	Marionette	INFO	Stopped listening on port 60551
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileRFte3F\protections.sqlite
+1607325603960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ibrahim\\AppData\\Local\\Temp\\rust_mozprofileJv432Z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607325606130	Marionette	INFO	Listening on port 60669
+1607325606632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607325609370	Marionette	INFO	Stopped listening on port 60669
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Ibrahim\AppData\Local\Temp\rust_mozprofileJv432Z\protections.sqlite
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
