@@ -3,7 +3,7 @@ send_from_directory, flash
 import os, threading
 
 import download
-from download import get_youtube_url_from_name, download_mp3_from_url, download_mp3_from_name
+from download import download_mp3_from_name
 
 app = Flask(__name__)
 app.secret_key = 'asldhjasdjkashdaskjdsadlaskdjaskl'

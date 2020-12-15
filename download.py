@@ -4,9 +4,7 @@ import requests
 import youtube_dl
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-
-# def init_geckodriver():
-		
+	
 ydl_opts = {
 	'format': 'bestaudio/best',
 	'postprocessors': [{
@@ -49,7 +47,6 @@ def get_youtube_url_from_name(name):
 def download_mp3_from_url(url):
 	with youtube_dl.YoutubeDL(ydl_opts) as ydl:
 		ydl.download([url])
-
 
 def download_mp3_from_name(name):
 	url, _ = get_youtube_url_from_name(name)
