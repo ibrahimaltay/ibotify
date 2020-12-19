@@ -4,6 +4,10 @@ import requests
 import youtube_dl
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+import os
+
+from appmain import db
+from appmain.models import User,Song
 	
 ydl_opts = {
 	'format': 'bestaudio/best',
@@ -44,10 +48,34 @@ def get_youtube_url_from_name(name):
 		driver.quit()
 		print('(+) Geckodriver closed!')
 
+def song_exists(title):
+	library = os.listdir("appmain/static/downloads")
+	if (title + '.mp3' in library or title + '.webm' in library):	
+		print(title , "is in library, skipping download")
+		return True
+	else:
+		print(title, "is not in library")
+		return False
+
 def download_mp3_from_url(url):
 	with youtube_dl.YoutubeDL(ydl_opts) as ydl:
 		ydl.download([url])
 
-def download_mp3_from_name(name):
-	url, _ = get_youtube_url_from_name(name)
-	download_mp3_from_url(url)
+def download_mp3_from_name(name, user_id):
+	url, title = get_youtube_url_from_name(name)
+	user = User.query.filter_by(id=user_id).first()
+	print(user.id, user.username)
+	if not song_exists(title):
+		download_mp3_from_url(url)
+		song = Song(title=title, url = url)
+
+		user.songs.append(song)
+		db.session.add(song)
+		db.session.commit()
+
+	else:
+		song = Song.query.filter_by(url=url).first()
+		if song:
+			user.songs.append(song)
+		else:
+			print("Fatal Error in Download_mp3_from_name!")
